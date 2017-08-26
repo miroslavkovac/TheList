@@ -179,6 +179,7 @@ Server Side Swift frameworks are projects that provide an infrastructure with wh
 
 * [SwiftString](https://github.com/iamjono/SwiftString) - A comprehensive, lightweight string extension for Swift 3
 * [Hypertext](https://github.com/sahandnayebaziz/Hypertext) - Any-way-you-want-it, type-safe HTML in Swift
+* [Lingo](https://github.com/miroslavkovac/Lingo) - Swift Localization library.
 
 ### Misc Utilities
 
